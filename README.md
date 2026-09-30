@@ -15,7 +15,7 @@ Duesy는 다음 흐름을 한 화면에 연결합니다.
 
 ## 데모
 
-- 배포 사이트: 배포 후 이 README에 추가
+- 배포 사이트: https://duesy-sand.vercel.app
 - ID: `demo@duesy.app`
 - PW: `duesy2026`
 
